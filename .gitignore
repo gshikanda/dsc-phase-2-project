@@ -4,3 +4,6 @@
 __pycache__
 *.db
 *.pytest_cache
+kc_house_data.csv
+column_names
+halfway-there.gif
